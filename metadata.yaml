@@ -1,11 +1,16 @@
 _repo: The-Book-of-Light-in-the-Hand-of-Love-A-plea-for-the-British-and-Foreign-Bible-Society_64471
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64471-h/images/cover.jpg
 creator:
   author:
     agent_name: Vaughan, Charles J.
     gutenberg_agent_id: '52919'
     url: http://www.gutenberg.org/2009/agents/52919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64471#The-Book-of-Light-in-the-Hand-of-Love-A-plea-for-the-British-and-Foreign-Bible-Society
 gutenberg_issued: '2021-02-06'
 gutenberg_type: Text
 identifiers:
